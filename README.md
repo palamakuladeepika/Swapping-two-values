@@ -19,7 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-
+wt
+tfty
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
